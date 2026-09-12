@@ -73,3 +73,24 @@ Développée avec **Flutter** (Android/iOS), l'application propose deux espaces 
 
 ## 📂 Structure du dépôt# iot-cardio-edge-ai
 Dispositif IoT portable à base d'Edge AI pour la détection précoce d'anomalies cardiorespiratoires
+## 📸 Aperçu du prototype et de l'application
+
+### Prototype matériel assemblé
+![Prototype](prototype_final.jpg)
+
+### Application mobile — Écrans principaux
+
+| Écran d'accueil | Connexion | Dashboard Patient |
+|---|---|---|
+| ![Welcome](Welcome.png) | ![Login](screen_login.png) | ![Dashboard Patient](Dashboard%20Patient.png) |
+
+| Dashboard Médecin | Liste des patients | Historique santé |
+|---|---|---|
+| ![Dashboard Médecin](Dashboard%20M%C3%A9decin.png) | ![Patients](screen_patients.png) | ![Historique](screen_historique.png) |
+
+| Chat Patient/Médecin | Profil patient |
+|---|---|
+| ![Chat](screen_chat.png) | ![Profil](screen_profil.png) |
+
+### Transmission temps réel — Firebase
+![Firebase](firbase.png)
